@@ -19,7 +19,7 @@ Getting Started
 
 1. Clone the Repository
 
-git clone YOUR-REPOSITORY-URL
+git clone Coptic-Perspective
 
 2. Open the Project
 

@@ -1,4 +1,4 @@
-# Coptic-Perspective
+# Coptic Perspective
 
 Overview
 
